@@ -19,11 +19,6 @@ I believe the most exciting AI innovations happen when research meets real-world
 - 🔄 Diffusion models and generative AI
 - 🚀 Scaling research prototypes to production-ready systems
 
-### Connect with me
-
-- 📧 Email: dldbstjd9751@gmail.com or sung@wrtn.io
-- 💼 [LinkedIn](https://www.linkedin.com/in/yunsung-lee/)
-
 ---
 
 ⭐ Check out some of my open-source work:
