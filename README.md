@@ -5,9 +5,8 @@
 I'm an AI research engineer with strong foundations in both research and practical engineering:
 
 - 🔬 **Research background**: 10+ publications in top-tier conferences (NeurIPS, CVPR, AAAI) with 1.4 K+ citations
-- 💻 **Engineering experience**: Building scalable AI systems serving 5M+ MAUs
+- 💻 **Engineering experience**: Building scalable [AI systems](https://wrtn.ai/) serving 5M+ MAUs
 - 🌉 **Bridge builder**: Transforming cutting-edge research into technologies that actually enhance people's lives
-- 🤖 Currently working on multimodal AI and autonomous agents at [Wrtn Technologies](https://wrtn.ai/)
 - 🍸 Fun fact: I'm a licensed (by the Korean Government) home bartender in my free time!
 
 ### What I'm passionate about
